@@ -1,9 +1,5 @@
-def xorit(a, b):
-    if a != b:
-        return '1'
-    return '0'
 
-
+aaaaa
 # print 'insert value'
 # a=n=int(raw_input())
 a = n = 10
